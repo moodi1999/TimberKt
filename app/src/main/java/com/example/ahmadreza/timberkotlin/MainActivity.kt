@@ -22,9 +22,9 @@ class MainActivity : AppCompatActivity() {
         val id = item?.itemId
 
         when (id) {
-            R.id.action_setting -> {
+            /*R.id.action_setting -> {
                 return true
-            }
+            }*/
         }
 
 
