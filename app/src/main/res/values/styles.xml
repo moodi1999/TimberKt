@@ -6,9 +6,6 @@
         <item name="colorAccent">#FF4081</item>
         <item name="android:windowBackground">@color/window_background</item>
 
-        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">@android:color/transparent</item>
-
     </style>
 
     <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
